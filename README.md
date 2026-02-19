@@ -1,6 +1,11 @@
 ## Hi there 👋
 
+
+## 🛠 Technologies I Use  
+![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <!--
+
 **ahmedkhatim/ahmedkhatim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -1,7 +1,8 @@
+<!--
 ![banner](https://github.com/ahmedkhatim/ahmedkhatim/blob/main/cover.jpg)
-
+-->
 ## Hi there 👋
-
+<!--
 ## 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -21,7 +22,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<!--
+
 
 **ahmedkhatim/ahmedkhatim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

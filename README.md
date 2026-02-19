@@ -1,3 +1,5 @@
+![banner](https://github.com/ahmedkhatim/ahmedkhatim/blob/main/cover.jpg)
+
 ## Hi there 👋
 
 ## 💻 Languages
